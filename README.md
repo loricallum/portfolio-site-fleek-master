@@ -10,7 +10,7 @@
 
 ### 2. Install Dependencies:
 ```
-$ cd portfolio_template
+$ cd portfolio_site_fleek_master
 $ npm install 
 ```
 

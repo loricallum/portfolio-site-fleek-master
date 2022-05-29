@@ -23,9 +23,7 @@ const Projects = () => {
                 <div className="projects__card">
                     <h3>Compound</h3>
                     <img src={compound} alt="Compound Landing Page" />
-                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                        Facilis consectetur facere neque assumenda quasi aliquid,
-                        perferendis ratione rerum dolorem.
+                    <p>Site is a working progress
                     </p>
 
                     <a href="https://compound.finance/" target="_blank" className="button">Site</a>
@@ -35,9 +33,7 @@ const Projects = () => {
                 <div className="projects__card">
                     <h3>Aave</h3>
                     <img src={aave} alt="Aave Landing Page" />
-                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                        Facilis consectetur facere neque assumenda quasi aliquid,
-                        perferendis ratione rerum dolorem.
+                    <p>Site is a working progress
                     </p>
 
                     <a href="https://aave.com/" target="_blank" className="button">Site</a>

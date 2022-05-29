@@ -5,25 +5,24 @@ const Experience = () => {
 
             <ul>
                 <li>
-                    <i>Dapp University</i>, 2021-2022
+                <i>Software Engineer Career</i> : <br></br>
+                    <i>Wrexham University</i>, 2022-24 Computer Science - Software Engineering Specialism
+                    <br></br>
+                    <i>Freelance Software Developer, 2020 - present</i>
+                    
                     <ul>
-                        <li>Graduated with 4.00 GPA</li>
+                      
                     </ul>
                 </li>
                 <li>
-                    <i>TechFlow</i> - <strong>Blockchain Developer Intern</strong>, 2018-2019
-                    <ul>
-                        <li>Studied DApp development</li>
-                        <li>Assisted Research &amp; Development on Web3 Products</li>
-                    </ul>
+                    <i>Scientific Career</i> : <br></br>
+                    
+                    <i>BSc Hons in Biomedical Science + MSc in Medical Microbiology</i>, 2004-2008
+                    <br></br>
+                    <i>15 years of research development and laboratory experience</i>, 2007 - 2022
+                    
                 </li>
-                <li>
-                    <i>SpiderChain</i> - <strong>Blockchain Developer</strong>, 2019-2022
-                    <ul>
-                        <li>Contributed to smart contract development on client's platform</li>
-                        <li>Peer reviewed &amp; Audited Solidity code</li>
-                    </ul>
-                </li>
+                
             </ul>
         </div>
     );
